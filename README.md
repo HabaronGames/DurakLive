@@ -1,1 +1,3 @@
 # DurakLive
+
+Privacy Policy 
